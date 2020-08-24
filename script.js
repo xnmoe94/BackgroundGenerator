@@ -48,3 +48,24 @@ const  newarray = array.map(user => {
   return username += "?";
 
 })
+
+
+
+
+//Create an array using map that has all the usernames with a "? to each of the usernames
+
+
+const  newarray = array.map(user => {
+  let {username} = user;
+  return username += "?";
+
+})
+
+//Create an array using map that has all the usernames with a "? to each of the usernames
+
+
+const  newarray = array.map(user => {
+  let {username} = user;
+  return username += "?";
+
+})
